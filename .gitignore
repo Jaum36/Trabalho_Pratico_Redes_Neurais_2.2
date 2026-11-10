@@ -1,0 +1,10 @@
+# Ambiente virtual (cada membro da equipe cria o seu)
+.venv/
+
+# Checkpoints e caches
+.ipynb_checkpoints/
+__pycache__/
+
+# Lixo do macOS
+__MACOSX/
+.DS_Store
