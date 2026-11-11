@@ -1,6 +1,6 @@
 # Ambiente virtual (cada membro da equipe cria o seu)
 .venv/
-
+venv/
 # Checkpoints e caches
 .ipynb_checkpoints/
 __pycache__/
